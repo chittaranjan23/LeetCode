@@ -2,7 +2,7 @@ package Math.ReachingPoints;
 
 public class ReachingPoints_980 {
     public static void main(String[] args) {
-        
+
     }
 }
 
