@@ -6,9 +6,12 @@ import java.util.List;
 import java.util.Map;
 
 public class KeyBoardRow_500 {
+    public static void main(String[] args) {
+
+    }
 }
 
-class Solution {
+class Solution_KeyBoardRow {
     public String[] findWords(String[] words) {
         String[] str = {"qwertyuiop", "asdfghjkl", "zxcvbnm"};
         Map<Character, Integer> map = new HashMap();
