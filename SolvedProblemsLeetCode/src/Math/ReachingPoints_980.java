@@ -1,4 +1,4 @@
-package Math.ReachingPoints;
+package Math;
 
 public class ReachingPoints_980 {
     public static void main(String[] args) {
